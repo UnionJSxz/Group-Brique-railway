@@ -1,6 +1,7 @@
 {
   "name": "brique-server",
   "version": "1.0.0",
+  "type": "commonjs",
   "description": "Backend Node.js para PIX QR Code e notificações Telegram",
   "main": "index.js",
   "scripts": {
